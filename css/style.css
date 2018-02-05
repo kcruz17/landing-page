@@ -1,0 +1,94 @@
+
+header{
+	background-image: url(../img/Home_11_img_1.jpg);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 300px;
+	color: #fff;
+	
+}
+
+#sec-formulario{
+	padding-top: 200px;
+}
+
+#sec-info article{
+	margin-top: -80px;
+	background-color: #fff;
+	border-left: 1px solid #efefef;
+	border-top: 1px solid #efefef;
+	border-bottom: 1px solid #efefef;
+}
+
+#sec-info article:nth-child(1):hover{
+	background-image: url(../img/Home_10_service_1.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+#sec-info article:nth-child(2):hover{
+	background-image: url(../img/Home_10_service_2.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+#sec-info article:nth-child(3):hover{
+	background-image: url(../img/Home_10_service_3.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+#sec-testimonials {
+	background-image: url(../img/Home_10_img_3.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 120px 0px;
+	color: #fff;
+}
+
+#sec-testimonials img{
+	border-radius: 100px;
+}
+
+#sec-testimonials .carousel-caption{
+	padding: 0px 130px;
+}
+
+#sec-testimonials .quotes{
+	color: #dfdfdf;
+	font-size: 18px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+
+#sec-testimonials .cite{
+	font-size: 18px;
+}
+
+#sec-testimonials .cite::before{
+	content:"";
+	border: 2px solid #fff;
+	width: 10px;
+	height: 5px;
+	display: block;
+	padding-left: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
